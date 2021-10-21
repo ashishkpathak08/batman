@@ -1,0 +1,3 @@
+[submodule "superman"]
+	path = superman
+	url = https://github.com/ashishkpathak08/superman.git
